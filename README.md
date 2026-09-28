@@ -4,7 +4,14 @@
 
 面向多平台、多环境的小程序上传 CLI，通过统一配置管理构建产物、版本信息和平台凭据。
 
-目前已支持微信、抖音、支付宝和小红书小程序上传。抖音使用 `tt-ide-cli`，支付宝使用 `minidev`，小红书使用 `xhs-mp-cli` 并仅支持 Token 认证。
+<p align="center">
+  <a href="https://linux.do/"><img alt="Platform" src="https://img.shields.io/badge/Linux.do-open--source-F59E0B?style=for-the-badge" /></a>
+</p>
+
+- [x] 微信
+- [x] 抖音
+- [x] 支付宝
+- [x] 小红书
 
 ## 功能
 

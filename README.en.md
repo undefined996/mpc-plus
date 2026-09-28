@@ -4,7 +4,14 @@
 
 A unified CLI for uploading mini programs across platforms and environments, with shared configuration for build output, release information, and platform credentials.
 
-WeChat, Douyin, Alipay, and Xiaohongshu mini program uploads are supported. Xiaohongshu uses `xhs-mp-cli` with required token authentication, a version, and a description.
+<p align="center">
+  <a href="https://linux.do/"><img alt="Platform" src="https://img.shields.io/badge/Linux.do-open--source-F59E0B?style=for-the-badge" /></a>
+</p>
+
+- [x] WeChat
+- [x] Douyin
+- [x] Alipay
+- [x] Xiaohongshu
 
 ## Features
 

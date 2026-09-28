@@ -1,3 +1,20 @@
+## [0.0.1](https://github.com/pkc918/mpc-plus/compare/v0.0.1-beta.1...v0.0.1) (2026-09-28)
+
+## [0.0.1-beta.1](https://github.com/pkc918/mpc-plus/compare/v0.0.1-alpha.3...v0.0.1-beta.1) (2026-09-21)
+
+### Features
+
+- **docs:** add homepage force field and article cloth ([618cb8c](https://github.com/pkc918/mpc-plus/commit/618cb8c82fd81043560c2de61e95de76c1ed377f))
+- **docs:** redesign homepage with platform logos ([3015710](https://github.com/pkc918/mpc-plus/commit/3015710ce499a3dd72189797e9d7912ebe51c698))
+
+## [0.0.1-alpha.3](https://github.com/pkc918/mpc-plus/compare/v0.0.1-alpha.2...v0.0.1-alpha.3) (2026-09-16)
+
+### Features
+
+- **alipay:** add uploads with optional release versions ([a76f9a3](https://github.com/pkc918/mpc-plus/commit/a76f9a306fe463beb6d164d77c9c0742f8f86673))
+- **douyin:** add token-authenticated mini program uploads ([6eb521c](https://github.com/pkc918/mpc-plus/commit/6eb521c0c2ac9c324fdf3f17bcec651cec87ba42))
+- **xhs:** add token-authenticated mini program uploads ([0108666](https://github.com/pkc918/mpc-plus/commit/010866694da523a54a2f9f35435a417f5119911e))
+
 ## [0.0.1-alpha.2](https://github.com/pkc918/mpc-plus/compare/v0.0.1-alpha.1...v0.0.1-alpha.2) (2026-09-16)
 
 ### Features
